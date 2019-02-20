@@ -54,7 +54,7 @@ return array(
            'is_required' => '0',
            'is_searchable' => '1',
            'is_search_range' => '0',
-           'weight' => '86',
+           'weight' => '10',
            'is_active' => '1',
            'is_view' => '0',
            'text_length' => '255',
@@ -71,7 +71,7 @@ return array(
            'is_required' => '0',
            'is_searchable' => '1',
            'is_search_range' => '0',
-           'weight' => '86',
+           'weight' => '20',
            'is_active' => '1',
            'is_view' => '0',
            'text_length' => '255',
@@ -110,7 +110,7 @@ return array(
           'is_required' => '0',
           'is_searchable' => '1',
           'is_search_range' => '0',
-          'weight' => '86',
+          'weight' => '10',
           'is_active' => '1',
           'is_view' => '0',
           'text_length' => '255',
@@ -139,7 +139,7 @@ return array(
           'name' => 'mediafields_economic_development',
           'value' => '1',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '10',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -150,7 +150,7 @@ return array(
           'name' => 'mediafields_employment',
           'value' => '2',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '20',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -161,7 +161,7 @@ return array(
           'name' => 'mediafields_environment',
           'value' => '3',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '30',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -172,7 +172,7 @@ return array(
           'name' => 'mediafields_health',
           'value' => '4',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '40',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -183,7 +183,7 @@ return array(
           'name' => 'mediafields_human_interest',
           'value' => '5',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '50',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -194,7 +194,7 @@ return array(
           'name' => 'mediafields_immigration',
           'value' => '6',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '60',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -220,7 +220,7 @@ return array(
           'name' => 'mediafields_blog',
           'value' => '1',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '10',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -231,7 +231,7 @@ return array(
           'name' => 'mediafields_magazine',
           'value' => '2',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '20',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -242,7 +242,7 @@ return array(
           'name' => 'mediafields_newspaper',
           'value' => '3',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '30',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -251,9 +251,9 @@ return array(
           'option_group_id' => '$value.id',
           'label' => 'Online',
           'name' => 'mediafields_online',
-          'value' => '4',
+          'value' => '40',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '40',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -264,7 +264,7 @@ return array(
           'name' => 'mediafields_photography',
           'value' => '5',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '50',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -275,7 +275,7 @@ return array(
           'name' => 'mediafields_radio',
           'value' => '6',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '60',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -286,7 +286,7 @@ return array(
           'name' => 'mediafields_tv',
           'value' => '7',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '70',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
@@ -297,7 +297,7 @@ return array(
           'name' => 'mediafields_weekly',
           'value' => '8',
           'is_default' => '0',
-          'weight' => '1',
+          'weight' => '80',
           'is_optgroup' => '0',
           'is_reserved' => '0',
           'is_active' => '1'
