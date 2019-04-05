@@ -51,7 +51,7 @@ function mediafields_civicrm_postInstall() {
   );
 
   foreach($pairs as $field_name => $option_group_name) {
-    voterfields_assign_option_group_to_custom_field($field_name, $option_group_name); 
+    mediafields_assign_option_group_to_custom_field($field_name, $option_group_name); 
   }
 }
 

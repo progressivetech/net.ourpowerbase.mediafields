@@ -103,7 +103,7 @@ return array(
       'api.custom_field.create' => array(
         array(
           'custom_group_id' => '$value.id',
-          'label' => 'Media Type',
+          'label' => 'Media Outlet Type',
           'name' => 'mediafields_outlet_type',
           'data_type' => 'String',
           'html_type' => 'CheckBox',
